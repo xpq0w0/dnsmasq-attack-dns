@@ -1,6 +1,6 @@
 # dnsmasq-attack-dns
 ##DNS IP
-120.26.94.98
+112.124.105.183
 ##传说中的作用?
 * 访问Google等被墙网站
 * 优化了XBOX,psn,origin,steam等服务
